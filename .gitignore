@@ -1,0 +1,5 @@
+env/
+data/credits.csv.zip
+artifacts/similarity.pkl
+instructions.txt
+Procfile
